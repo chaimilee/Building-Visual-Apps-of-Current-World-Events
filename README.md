@@ -38,4 +38,5 @@ Dynamic Map of Ukraine
 ![](https://github.com/chaimilee/Building-Visual-Apps-of-Current-World-Events/blob/main/ukraine_map_gif.gif)
 
 Dynamic World Map
+
 ![](https://github.com/chaimilee/Building-Visual-Apps-of-Current-World-Events/blob/main/world_map_gif.gif)
