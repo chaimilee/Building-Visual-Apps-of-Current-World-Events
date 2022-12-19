@@ -8,9 +8,9 @@ Created a set of visualizations and plots to illustrate some of the current Worl
 Install the following:
 - pip install geopy
 - pip install pytesseract
-- ! sudo apt install tesseract-ocr
-- ! sudo apt install libtesseract-dev
-- ! pip install Pillow==9.0.0
+- sudo apt install tesseract-ocr
+- sudo apt install libtesseract-dev
+- pip install Pillow==9.0.0
 
 Install the following libraries:
 - import PIL
@@ -26,11 +26,27 @@ Install the following libraries:
 2) For Named-Entity Recognition (NER):
 
 Install the following libraries:
--import spacy
--import matplotlib.pyplot as plt
--import json
--from itertools import islice
--nlp = spacy.load("en_core_web_sm")
+- import spacy
+- import matplotlib.pyplot as plt
+- import json
+- from itertools import islice
+- nlp = spacy.load("en_core_web_sm")
+
+3) For Geoparsing/Building maps
+
+Install the following:
+- pip install geopy
+- pip install plotly
+- pip install geopandas
+- pip install -U kaleido
+
+Install the following libraries:
+- import spacy
+- from itertools import islice
+- import plotly.graph_objects as go
+- from geopy.geocoders import Nominatim
+- from geopy.geocoders import Photon
+- import kaleido
 
 ## Maps
 
