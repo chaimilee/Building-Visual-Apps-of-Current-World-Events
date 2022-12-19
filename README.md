@@ -32,7 +32,7 @@ Install the following libraries:
 -from itertools import islice
 -nlp = spacy.load("en_core_web_sm")
 
-##Results
+## Maps
 
 Dynamic Map of Ukraine
 ![](https://github.com/chaimilee/Building-Visual-Apps-of-Current-World-Events/blob/main/ukraine_map_gif.gif)
