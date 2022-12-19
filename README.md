@@ -62,9 +62,13 @@ Dynamic World Map
 The overall distribution of entities across the news sources is similar, but the frequencies and rankings of specific entities vary significantly. For example, the frequency of mentions of the NORP entity (countries) is ~1200, ~1750, and ~1400 for Fox, CNN, and Aljazeera, respectively. The ORG entity (organizations) has a large leader for each news source, but the leading ORG changes based on the source. Additionally, the OCR (optical character recognition) categorization of certain words into entities can be influenced by context. For example, the word "Biden" was both a PERSON and LOC entity in all three sources due to context in the sentence.
 
 - Distribution for CNN
+![](https://github.com/chaimilee/Building-Visual-Apps-of-Current-World-Events/blob/main/bar_charts_distribution/cnn_dist.png)
 
 - Distribution for Fox
+![](https://github.com/chaimilee/Building-Visual-Apps-of-Current-World-Events/blob/main/bar_charts_distribution/fox_dist.png)
 
 - Distribution for Aljazeera
+![](https://github.com/chaimilee/Building-Visual-Apps-of-Current-World-Events/blob/main/bar_charts_distribution/aljazeera_dist.png)
 
 - Total Distribution
+![](https://github.com/chaimilee/Building-Visual-Apps-of-Current-World-Events/blob/main/bar_charts_distribution/total_dist.png)
